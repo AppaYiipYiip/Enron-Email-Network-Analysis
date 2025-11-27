@@ -63,7 +63,7 @@ The Enron email network follows a power law degree distribution (𝑝(𝑘) ∼ 
 - **In-degree exponent**: α = 1.2190
 - **Out-degree exponent**: α = 0.6947
 
-This indicates the presence of communication "hubs" - individuals who send or receive a disproportionately large number of emails.
+This indicates the presence of communication "hubs"; individuals who send or receive a disproportionately large number of emails.
 
 ![Degree Distribution](images/degree_distribution.png)
 *Log-log plot showing power law relationship in degree distributions with fitted slopes*
@@ -97,7 +97,7 @@ Working on this project provided valuable experience with distributed data proce
 
 The scale-free properties observed in the Enron email network align with patterns seen in many other social and information networks, suggesting some universal principles in how human communication networks develop. This insight could be applied to understanding other organizational communication structures or detecting anomalous patterns.
 
-The technical skills gained from this project - distributed computing, network analysis, and working with semi-structured data - are directly applicable to many data science challenges in professional environments.
+The technical skills gained from this project; distributed computing, network analysis, and working with semi-structured data; are directly applicable to many data science challenges in professional environments.
 
 ## Dataset
 
